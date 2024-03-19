@@ -1,7 +1,9 @@
 ### Hi there 👋
-![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasonth95&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iasonth95)](https://github.com/anuraghazra/github-readme-stats)
+![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasonth95&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)
+
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iasonth95)](https://github.com/anuraghazra/github-readme-stats)
+
 **iasonth95/iasonth95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
