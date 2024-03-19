@@ -1,7 +1,6 @@
 ### Hi there 👋
-![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasonth95&hide=contribs,prs)
-![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasonth95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasonth95&show_icons=true&theme=radical)
+![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasonth95&hide=contribs,prs&theme=radical)
+![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasonth95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 <!--
 **iasonth95/iasonth95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
