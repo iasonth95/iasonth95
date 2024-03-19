@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasonth95&show=reviews,prs_merged,prs_merged_percentage&theme=radical)
+![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasonth95&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 <!--
 **iasonth95/iasonth95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
